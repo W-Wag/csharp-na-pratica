@@ -1,0 +1,15 @@
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\bin\Debug\net8.0\CloudStorageTest.Infrastructure.deps.json
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\bin\Debug\net8.0\CloudStorageTest.Infrastructure.dll
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\bin\Debug\net8.0\CloudStorageTest.Infrastructure.pdb
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\bin\Debug\net8.0\CloudStorageTest.Domain.dll
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\bin\Debug\net8.0\CloudStorageTest.Domain.pdb
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudStorageTest.Infrastructure.csproj.AssemblyReference.cache
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudStorageTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudStorageTest.Infrastructure.AssemblyInfoInputs.cache
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudStorageTest.Infrastructure.AssemblyInfo.cs
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudStorageTest.Infrastructure.csproj.CoreCompileInputs.cache
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudSto.98166C2B.Up2Date
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudStorageTest.Infrastructure.dll
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\refint\CloudStorageTest.Infrastructure.dll
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\CloudStorageTest.Infrastructure.pdb
+D:\estudo\CloudStorageTest\CloudStorageTest.Infrastructure\obj\Debug\net8.0\ref\CloudStorageTest.Infrastructure.dll
